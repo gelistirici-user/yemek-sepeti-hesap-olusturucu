@@ -1,0 +1,9 @@
+{
+    "password": "123Sifre_Test",
+    "mail_domain": "@gmail.com",
+    "mail_length": 12,
+    "country": "antalya",
+    "account_per_proxy": 5,
+    "proxy_file_path": "proxies.txt",
+    "results_file_path": "results.txt"
+}
